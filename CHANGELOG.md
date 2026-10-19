@@ -1,5 +1,7 @@
 # Historico das mudanças 
 
+## Versão 5 - Publicada 13/10/2026
+
 ## Versão 4 - Planejada
 
 [ ]Eu o usuário desejo uma mudança da cor verde de fundo para um tom mais saturado, gerando melhor visualização do texto
